@@ -359,5 +359,5 @@ Potential improvements include:
 
 Computer Science student focused on Software Engineering, Application Security, and Cloud Technologies.
 
-- GitHub: [https://github.com/EmoleEmma](https://github.com/EmoleEmma)
-- LinkedIn: [https://www.linkedin.com/in/chibuikem-emole-b115113a2](https://www.linkedin.com/in/chibuikem-emole-b115113a2)
+[GitHub](https://github.com/EmoleEmma)
+[LinkedIn](https://www.linkedin.com/in/chibuikem-emole-b115113a2)
