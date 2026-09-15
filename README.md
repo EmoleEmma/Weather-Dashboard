@@ -6,7 +6,7 @@ A responsive React weather application built to explore API integration, compone
 
 ## 🌐 Live Application
 
-[View Live Application](YOUR_DEPLOYED_URL)
+[View Live Application](https://weather-dashboard-kappa-sable.vercel.app/)
 
 ---
 
